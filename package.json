@@ -2,7 +2,7 @@
   "name": "crismas",
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://lamagiadelatardecer.io",
+  "homepage": "https://lamagiadelatardecer.co",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
